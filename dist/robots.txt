@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-all-time-comfort-heating-cooling.dream-surge.com/sitemap-index.xml

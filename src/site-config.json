@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "All Time Comfort Heating&Cooling",
+    "phone": "+12673568317",
+    "category": "HVAC contractor",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Philly's Comfort Experts",
+      "heroSubline": "Heating and cooling solutions built for Philadelphia's toughest seasons. Expert service, guaranteed.",
+      "aboutTitle": "Built for Philly Comfort",
+      "aboutText": [
+        "All Time Comfort Heating & Cooling started with a simple goal: to provide reliable, honest HVAC services to our neighbors in Philadelphia. We're not just another contractor; we're part of this community, understanding the unique challenges our city's climate and infrastructure present.",
+        "Our approach is straightforward: diagnose the problem accurately, explain the solution clearly, and execute the work flawlessly. We value integrity, transparency, and respect for your time and property. We treat every rowhouse, condo, and business as if it were our own.",
+        "From Fishtown to Chestnut Hill, we're committed to keeping Philadelphia comfortable, one home and business at a time. We actively support local initiatives and believe in giving back to the community that has supported us. We are proud to be a part of Philadelphia."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "HVAC emergencies don't wait, and neither do we. We're available around the clock to handle your urgent heating and cooling needs."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team consists of highly trained and certified professionals who understand the intricacies of all HVAC systems."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear and transparent pricing before any work begins."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique HVAC challenges presented by Philadelphia's climate and housing stock."
+        }
+      ],
+      "ctaHeadline": "Stay Comfortable, Philly",
+      "ctaSubline": "Contact All Time Comfort today for reliable heating and cooling solutions."
+    },
+    "services": [
+      {
+        "slug": "furnace-repair",
+        "name": "Furnace Repair",
+        "shortDescription": "Fast, reliable furnace repair for Philadelphia's cold winters.",
+        "description": "When your furnace breaks down in the dead of winter, you need a repair service you can trust. All Time Comfort provides prompt and effective furnace repair services throughout Philadelphia. We understand the urgency of restoring heat to your home or business, especially during those brutal Nor'easters. Our experienced technicians are equipped to diagnose and repair all types of furnace problems, from minor malfunctions to complete system failures.\n\nWe work on all major furnace brands and models, including gas furnaces, oil furnaces, and electric furnaces. We use only high-quality replacement parts to ensure lasting repairs and optimal performance. Our services include diagnosing ignition problems, replacing faulty thermocouples, repairing blower motors, fixing gas leaks, and resolving thermostat issues. We take pride in our ability to quickly identify the problem and implement the most efficient and cost-effective solution.\n\nBefore we begin any work, we'll provide you with a clear and transparent estimate, so you know exactly what to expect. We believe in honest and upfront pricing, with no hidden fees or surprises. We're committed to restoring your comfort and peace of mind as quickly as possible, so you can get back to enjoying a warm and safe environment.",
+        "process": [
+          "Step 1: Diagnostic Assessment - Thoroughly inspect your furnace to identify the root cause of the problem.",
+          "Step 2: Transparent Quote - Provide a clear, upfront estimate for the repair work.",
+          "Step 3: Expert Repair - Use high-quality parts and proven techniques to fix your furnace.",
+          "Step 4: Performance Testing - Ensure your furnace is operating safely and efficiently after the repair."
+        ],
+        "benefits": [
+          "Restored heat quickly and reliably",
+          "Improved furnace efficiency",
+          "Prevention of further damage",
+          "Peace of mind knowing your furnace is in good hands"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a furnace repair request?",
+            "answer": "We offer 24/7 emergency furnace repair services and strive to respond to all requests as quickly as possible, often within hours."
+          },
+          {
+            "question": "What types of furnaces do you repair?",
+            "answer": "We repair all types of furnaces, including gas, oil, and electric models."
+          },
+          {
+            "question": "How can I prevent furnace problems in the future?",
+            "answer": "Regular maintenance, such as filter changes and professional tune-ups, can help prevent many common furnace problems."
+          }
+        ]
+      },
+      {
+        "slug": "air-conditioning-repair",
+        "name": "Air Conditioning Repair",
+        "shortDescription": "Keeping Philadelphia cool with expert AC repair services.",
+        "description": "Philadelphia summers can be brutal, and a malfunctioning air conditioner can make your home unbearable. All Time Comfort offers fast and reliable AC repair services to keep you cool and comfortable throughout the hottest months. We understand the importance of a functioning AC system, especially in older Philadelphia rowhouses that can trap heat. Our skilled technicians are equipped to handle any AC issue, from minor repairs to major component replacements.\n\nWe service all makes and models of air conditioners, including central AC systems, ductless mini-splits, and window units. Our services include diagnosing refrigerant leaks, repairing compressors, replacing blower motors, fixing electrical issues, and resolving thermostat problems. We use only high-quality parts and proven techniques to ensure lasting repairs and optimal performance. We are also experts with the unique challenges of installing and maintaining cooling systems in Philadelphia's historic buildings.\n\nBefore we begin any work, we'll provide you with a detailed estimate, so you know exactly what to expect. We believe in transparent pricing and honest service. Our goal is to restore your comfort and peace of mind as quickly as possible, so you can enjoy a cool and relaxing indoor environment, even during the hottest heat waves.",
+        "process": [
+          "Step 1: System Evaluation - Identify the cause of the AC malfunction.",
+          "Step 2: Transparent Pricing - Provide a clear estimate before starting any repairs.",
+          "Step 3: Quality Repair - Use quality parts and expert skills to fix the AC unit.",
+          "Step 4: Performance Check - Ensure the AC unit is working efficiently and effectively."
+        ],
+        "benefits": [
+          "Fast cooling and comfort",
+          "Improved AC efficiency",
+          "Prevention of further damage",
+          "Extended lifespan of your AC system"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my AC unit serviced?",
+            "answer": "We recommend having your AC unit serviced at least once a year, preferably in the spring before the start of the cooling season."
+          },
+          {
+            "question": "What are the signs of a failing AC unit?",
+            "answer": "Signs of a failing AC unit include weak airflow, warm air blowing from the vents, unusual noises, and frequent cycling."
+          },
+          {
+            "question": "Do you offer emergency AC repair services?",
+            "answer": "Yes, we offer 24/7 emergency AC repair services to address urgent cooling needs."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-installation",
+        "name": "HVAC Installation",
+        "shortDescription": "Professional HVAC installation services for homes and businesses in Philadelphia.",
+        "description": "Whether you're building a new home, renovating an existing property, or replacing an outdated HVAC system, All Time Comfort provides expert HVAC installation services throughout Philadelphia. We understand the importance of a properly sized and installed HVAC system for optimal comfort, efficiency, and indoor air quality. Our experienced technicians will work with you to select the right system for your specific needs and budget.\n\nWe install all types of HVAC systems, including furnaces, air conditioners, heat pumps, and ductless mini-splits. We take into account factors such as the size of your home, your insulation levels, and your climate to ensure that your new system is perfectly matched to your needs. We adhere to all local building codes and regulations, ensuring a safe and code-compliant installation. We are also experienced in installing HVAC systems in older Philadelphia buildings, including rowhouses and historic properties.\n\nWe provide a comprehensive installation service, including removing your old system, installing the new equipment, connecting all necessary ductwork and electrical connections, and testing the system to ensure optimal performance. We also provide thorough training on how to operate and maintain your new system. We stand behind our work with a satisfaction guarantee.",
+        "process": [
+          "Step 1: Consultation & Assessment - Analyze your needs and recommend the best system.",
+          "Step 2: System Design - Design a system tailored to your building and budget.",
+          "Step 3: Professional Installation - Install the system according to code and best practices.",
+          "Step 4: System Testing & Training - Ensure proper operation and train you on system use."
+        ],
+        "benefits": [
+          "Improved comfort and efficiency",
+          "Lower energy bills",
+          "Enhanced indoor air quality",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right HVAC system for my home?",
+            "answer": "Our experienced technicians can assess your needs and recommend the best system based on factors such as the size of your home, your climate, and your budget."
+          },
+          {
+            "question": "How long does HVAC installation take?",
+            "answer": "The duration of HVAC installation depends on the complexity of the project, but we strive to complete all installations as quickly and efficiently as possible."
+          },
+          {
+            "question": "Do you offer financing options for HVAC installation?",
+            "answer": "Yes, we offer flexible financing options to make HVAC installation more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "ductless-mini-splits",
+        "name": "Ductless Mini-Split Systems",
+        "shortDescription": "Efficient, zone-controlled comfort with ductless mini-splits in Philadelphia.",
+        "description": "Ductless mini-split systems are an excellent solution for homes and businesses in Philadelphia that lack existing ductwork or have rooms that are difficult to heat or cool. These systems offer efficient, zone-controlled comfort, allowing you to customize the temperature in individual rooms. All Time Comfort specializes in the installation, repair, and maintenance of ductless mini-split systems throughout Philadelphia.\n\nDuctless mini-splits consist of an outdoor condenser unit and one or more indoor air handlers, which are connected by refrigerant lines and electrical wiring. They offer several advantages over traditional HVAC systems, including increased energy efficiency, improved indoor air quality, and quiet operation. They are also a great option for older homes where adding ductwork is impractical or impossible, such as many of Philadelphia's historic rowhouses.\n\nOur experienced technicians can help you select the right ductless mini-split system for your needs and budget. We provide professional installation services, ensuring that your system is properly sized and installed for optimal performance. We also offer repair and maintenance services to keep your system running smoothly for years to come.",
+        "process": [
+          "Step 1: Site Assessment - Evaluate your space and heating/cooling needs.",
+          "Step 2: System Selection - Choose the ideal mini-split system for your requirements.",
+          "Step 3: Professional Installation - Install the system with minimal disruption to your home.",
+          "Step 4: System Testing & Training - Ensure proper operation and teach you how to use it."
+        ],
+        "benefits": [
+          "Zone-controlled comfort",
+          "Energy efficiency",
+          "Improved air quality",
+          "Quiet operation"
+        ],
+        "faq": [
+          {
+            "question": "How many indoor units can be connected to one outdoor unit?",
+            "answer": "The number of indoor units that can be connected to one outdoor unit depends on the size and capacity of the system. Our technicians can help you determine the right configuration for your needs."
+          },
+          {
+            "question": "Are ductless mini-splits difficult to install?",
+            "answer": "Ductless mini-splits require professional installation to ensure proper operation and efficiency."
+          },
+          {
+            "question": "How much do ductless mini-splits cost?",
+            "answer": "The cost of ductless mini-splits varies depending on the size and features of the system. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "heat-pump-services",
+        "name": "Heat Pump Services",
+        "shortDescription": "Efficient heating and cooling with heat pump installation and repair in Philadelphia.",
+        "description": "Heat pumps offer an energy-efficient way to heat and cool your Philadelphia home. All Time Comfort provides comprehensive heat pump services, including installation, repair, and maintenance. We understand the unique benefits of heat pumps in our climate, offering both heating and cooling solutions in one system.\n\nHeat pumps work by transferring heat from one place to another. In the winter, they extract heat from the outside air and transfer it inside. In the summer, they reverse the process, removing heat from your home and transferring it outside. While Philadelphia winters can be challenging, modern heat pump technology can still provide efficient heating, especially when paired with supplemental heating during extreme cold.\n\nOur experienced technicians can help you select the right heat pump system for your needs and budget. We provide professional installation services, ensuring that your system is properly sized and installed for optimal performance. We also offer repair and maintenance services to keep your system running smoothly for years to come. We're familiar with the specific challenges of heat pump maintenance in Philadelphia's freeze-thaw cycles.",
+        "process": [
+          "Step 1: Load Calculation - Determine your home's heating and cooling requirements.",
+          "Step 2: System Selection - Choose the right heat pump model for your needs.",
+          "Step 3: Professional Installation - Install the system according to manufacturer specifications.",
+          "Step 4: System Testing - Verify proper operation and efficiency."
+        ],
+        "benefits": [
+          "Energy efficiency",
+          "Year-round comfort",
+          "Environmentally friendly",
+          "Potential cost savings"
+        ],
+        "faq": [
+          {
+            "question": "Are heat pumps effective in cold climates like Philadelphia?",
+            "answer": "Yes, modern heat pumps can provide efficient heating even in cold climates, especially when paired with supplemental heating during extreme cold."
+          },
+          {
+            "question": "How long do heat pumps last?",
+            "answer": "With proper maintenance, heat pumps can last 15 years or more."
+          },
+          {
+            "question": "What is the difference between a heat pump and a furnace?",
+            "answer": "A furnace generates heat, while a heat pump transfers heat. Heat pumps are generally more energy-efficient than furnaces."
+          }
+        ]
+      },
+      {
+        "slug": "indoor-air-quality",
+        "name": "Indoor Air Quality Solutions",
+        "shortDescription": "Improve your home's air quality in Philadelphia with our expert services.",
+        "description": "Philadelphia's older housing stock and dense urban environment can contribute to poor indoor air quality. All Time Comfort offers a range of indoor air quality solutions to help you breathe easier and improve your health. We understand the common air quality issues in Philadelphia homes, from dust and allergens to mold and pollutants.\n\nOur services include air duct cleaning, air purifier installation, humidifier and dehumidifier installation, and ventilation system services. We use advanced equipment and techniques to remove dust, debris, and allergens from your air ducts, improving airflow and reducing allergy symptoms. We can also install air purifiers that remove harmful pollutants from your indoor air, such as pollen, dust mites, and pet dander. We can install humidifiers and dehumidifiers to maintain optimal humidity levels, preventing mold growth and improving comfort.\n\nOur experienced technicians can assess your home's indoor air quality and recommend the best solutions for your needs. We provide professional installation services and ongoing maintenance to ensure that your indoor air quality remains optimal.",
+        "process": [
+          "Step 1: Air Quality Testing - Assess your home's air quality to identify pollutants.",
+          "Step 2: Solution Recommendation - Recommend the best air quality solutions for your needs.",
+          "Step 3: Professional Installation - Install air purifiers, humidifiers, or dehumidifiers.",
+          "Step 4: Follow-Up Testing - Verify improved air quality after installation."
+        ],
+        "benefits": [
+          "Improved health",
+          "Reduced allergy symptoms",
+          "Enhanced comfort",
+          "Prevention of mold growth"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of poor indoor air quality?",
+            "answer": "Signs of poor indoor air quality include allergy symptoms, headaches, fatigue, and respiratory problems."
+          },
+          {
+            "question": "How often should I clean my air ducts?",
+            "answer": "We recommend cleaning your air ducts every 3-5 years, or more often if you have pets or allergies."
+          },
+          {
+            "question": "What types of air purifiers do you offer?",
+            "answer": "We offer a variety of air purifiers, including HEPA filters, activated carbon filters, and UV light air purifiers."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Philadelphia",
+        "slug": "philadelphia-pa",
+        "state": "PA",
+        "content": "All Time Comfort Heating&Cooling is proud to serve the vibrant city of Philadelphia, PA. From historic homes in Old City to modern apartments in University City, we understand the unique heating and cooling needs of Philadelphia residents. Our experienced technicians are equipped to handle any HVAC challenge, ensuring your comfort no matter the season. We offer a full range of services, including installation, repair, and maintenance of furnaces, air conditioners, heat pumps, and ductless mini-split systems.\n\nWe're committed to providing prompt, reliable service and transparent pricing. Whether you're dealing with a sudden breakdown or looking to upgrade your existing HVAC system, All Time Comfort Heating&Cooling is here to help. We also offer energy-efficient solutions to help you save money on your utility bills and reduce your carbon footprint.",
+        "localContext": "Philadelphia, known as the 'City of Brotherly Love,' is a diverse metropolis with distinct neighborhoods and a rich history.",
+        "nearbyAreas": [
+          "Camden",
+          "Upper Darby",
+          "Bala Cynwyd"
+        ]
+      },
+      {
+        "city": "Upper Darby",
+        "slug": "upper-darby-pa",
+        "state": "PA",
+        "content": "All Time Comfort Heating&Cooling extends its expert HVAC services to the community of Upper Darby, PA. We recognize the diverse housing stock in Upper Darby, from older homes to newer constructions, each presenting unique heating and cooling demands. Our team is well-versed in addressing these specific needs, providing tailored solutions for optimal comfort and efficiency.\n\nWe're dedicated to delivering top-notch service at competitive rates. Whether you require routine maintenance, emergency repairs, or a complete system replacement, All Time Comfort Heating&Cooling is your trusted partner in Upper Darby. We prioritize customer satisfaction and strive to exceed your expectations with every service call.",
+        "localContext": "Upper Darby is a large, diverse township bordering Philadelphia, known for its vibrant cultural scene and convenient access to the city.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Drexel Hill",
+          "Clifton Heights"
+        ]
+      },
+      {
+        "city": "Bala Cynwyd",
+        "slug": "bala-cynwyd-pa",
+        "state": "PA",
+        "content": "All Time Comfort Heating&Cooling proudly serves the residents of Bala Cynwyd, PA, providing top-quality HVAC solutions. We understand the importance of a comfortable and energy-efficient home, especially in Bala Cynwyd's upscale residential areas. Our skilled technicians are equipped to handle all your heating and cooling needs, from routine maintenance to complex repairs and installations.\n\nWe're committed to delivering exceptional customer service and reliable workmanship. Whether you're looking to upgrade your existing system or need immediate assistance with a malfunctioning unit, All Time Comfort Heating&Cooling is here to help. We offer a wide range of services, including furnace repair, air conditioning installation, and duct cleaning.",
+        "localContext": "Bala Cynwyd is an affluent community on the Main Line, known for its beautiful homes, excellent schools, and convenient access to Philadelphia.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Wynnewood",
+          "Narberth"
+        ]
+      },
+      {
+        "city": "Camden",
+        "slug": "camden-nj",
+        "state": "NJ",
+        "content": "Although located in New Jersey, All Time Comfort Heating&Cooling provides HVAC services to the city of Camden. We understand the diverse housing needs of Camden residents and are prepared to offer solutions for all types of heating and cooling systems. Our services include installation, repair, and maintenance.\n\nWe are committed to providing affordable and dependable service to the Camden community. If you're in need of a repair, or looking to upgrade your current system, All Time Comfort Heating&Cooling can help.",
+        "localContext": "Camden is a city located directly across the Delaware River from Philadelphia, known for its historical landmarks.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Gloucester City",
+          "Pennsauken Township"
+        ]
+      },
+      {
+        "city": "Drexel Hill",
+        "slug": "drexel-hill-pa",
+        "state": "PA",
+        "content": "All Time Comfort Heating&Cooling is dedicated to providing expert HVAC services to the community of Drexel Hill, PA. We understand the diverse housing styles in Drexel Hill, and we're prepared to meet their unique heating and cooling needs. Our skilled technicians can handle everything from routine maintenance to complex repairs and installations.\n\nWe are committed to providing reliable and affordable service to the residents of Drexel Hill. Whether you need emergency repairs, a system upgrade, or routine maintenance, All Time Comfort Heating&Cooling is here to help.",
+        "localContext": "Drexel Hill is a suburb of Philadelphia, known for its family-friendly atmosphere and convenient location.",
+        "nearbyAreas": [
+          "Upper Darby",
+          "Springfield",
+          "Havertown"
+        ]
+      },
+      {
+        "city": "Wynnewood",
+        "slug": "wynnewood-pa",
+        "state": "PA",
+        "content": "All Time Comfort Heating&Cooling is proud to offer its HVAC services to the residents of Wynnewood, PA. We understand the need for reliable and efficient heating and cooling in Wynnewood's beautiful homes. Our experienced technicians are equipped to handle all your HVAC needs, from routine maintenance to emergency repairs and installations.\n\nWe're committed to providing exceptional customer service and top-quality workmanship. Whether you're looking to upgrade your existing system or need immediate assistance with a malfunctioning unit, All Time Comfort Heating&Cooling is here to help. We offer a wide range of services, including furnace repair, air conditioning installation, and duct cleaning.",
+        "localContext": "Wynnewood is an affluent suburb on the Main Line, known for its beautiful homes, excellent schools, and convenient access to Philadelphia.",
+        "nearbyAreas": [
+          "Bala Cynwyd",
+          "Ardmore",
+          "Haverford"
+        ]
+      },
+      {
+        "city": "Narberth",
+        "slug": "narberth-pa",
+        "state": "PA",
+        "content": "All Time Comfort Heating&Cooling is pleased to serve the community of Narberth, PA, providing reliable and efficient HVAC solutions. We understand the unique heating and cooling needs of Narberth's charming homes and businesses. Our team of skilled technicians is equipped to handle all your HVAC needs, from routine maintenance to complex repairs and installations.\n\nWe're committed to delivering exceptional customer service and top-quality workmanship. Whether you're looking to upgrade your existing system or need immediate assistance with a malfunctioning unit, All Time Comfort Heating&Cooling is here to help. We offer a wide range of services, including furnace repair, air conditioning installation, and duct cleaning.",
+        "localContext": "Narberth is a small borough on the Main Line, known for its walkable downtown, community events, and excellent schools.",
+        "nearbyAreas": [
+          "Bala Cynwyd",
+          "Wynnewood",
+          "Ardmore"
+        ]
+      },
+      {
+        "city": "Haverford",
+        "slug": "haverford-pa",
+        "state": "PA",
+        "content": "All Time Comfort Heating&Cooling is dedicated to providing top-notch HVAC services to the residents of Haverford, PA. We understand the importance of a comfortable and energy-efficient home, especially in Haverford's beautiful residential areas. Our skilled technicians are equipped to handle all your heating and cooling needs, from routine maintenance to complex repairs and installations.\n\nWe're committed to delivering exceptional customer service and reliable workmanship. Whether you're looking to upgrade your existing system or need immediate assistance with a malfunctioning unit, All Time Comfort Heating&Cooling is here to help. We offer a wide range of services, including furnace repair, air conditioning installation, and duct cleaning.",
+        "localContext": "Haverford is an affluent suburb on the Main Line, known for its beautiful homes, prestigious college, and excellent schools.",
+        "nearbyAreas": [
+          "Bryn Mawr",
+          "Ardmore",
+          "Wynnewood"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Furnace Repair",
+        "text": "Our furnace went out during a freezing night in January. All Time Comfort came out within an hour and had it fixed quickly. The technician was professional and explained everything clearly. Highly recommend!",
+        "date": "2025-01-18"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "AC Installation",
+        "text": "We had All Time Comfort install a new AC unit in our West Philly twin. The installation was smooth, and the team was very respectful of our home. There was a slight delay due to parts availability, but they kept us informed throughout the process.",
+        "date": "2024-07-22"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 5,
+        "service": "Ductless Mini-Split Installation",
+        "text": "We installed a ductless mini-split system in our sunroom. All Time Comfort did a fantastic job. Now we can use the room year-round! Great service and very professional.",
+        "date": "2024-09-15"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Heat Pump Repair",
+        "text": "My heat pump stopped working, and All Time Comfort was able to diagnose and repair it quickly. They saved me from having to replace the whole unit. Very happy with their service!",
+        "date": "2024-11-03"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "service": "Air Duct Cleaning",
+        "text": "We had our air ducts cleaned by All Time Comfort, and we noticed an immediate improvement in our indoor air quality. The technicians were thorough and professional. Would use them again.",
+        "date": "2025-02-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Emergency AC Repair",
+        "text": "Our AC broke down during a heat wave. All Time Comfort responded quickly and fixed the problem efficiently. They really saved the day!",
+        "date": "2024-08-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "All Time Comfort: Philly HVAC Experts",
+        "description": "Reliable heating and cooling services in Philadelphia, PA. Furnace & AC repair, installation, and maintenance."
+      },
+      "about": {
+        "title": "About All Time Comfort Heating & Cooling",
+        "description": "Learn about All Time Comfort's commitment to providing reliable HVAC services in Philadelphia."
+      },
+      "services": {
+        "title": "HVAC Services in Philadelphia, PA",
+        "description": "All Time Comfort offers a full range of HVAC services: repair, installation, and maintenance. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact All Time Comfort Heating & Cooling",
+        "description": "Contact All Time Comfort for expert HVAC service in Philadelphia. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "All Time Comfort Customer Reviews",
+        "description": "Read what our satisfied customers are saying about All Time Comfort's HVAC services in Philadelphia."
+      },
+      "service-areas": {
+        "title": "HVAC Service Areas - Philadelphia",
+        "description": "All Time Comfort provides expert HVAC services throughout Philadelphia and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "furnace-repair": "/images/service-furnace-repair.webp",
+      "air-conditioning-repair": "/images/service-air-conditioning-repair.webp",
+      "hvac-installation": "/images/service-hvac-installation.webp",
+      "ductless-mini-splits": "/images/service-ductless-mini-splits.webp",
+      "heat-pump-services": "/images/service-heat-pump-services.webp",
+      "indoor-air-quality": "/images/service-indoor-air-quality.webp"
+    },
+    "servicesResponsive": {
+      "furnace-repair": {
+        "src": "/images/service-furnace-repair.webp",
+        "srcset": "/images/service-furnace-repair-400w.webp 400w, /images/service-furnace-repair-800w.webp 800w, /images/service-furnace-repair-1200w.webp 1200w, /images/service-furnace-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "air-conditioning-repair": {
+        "src": "/images/service-air-conditioning-repair.webp",
+        "srcset": "/images/service-air-conditioning-repair-400w.webp 400w, /images/service-air-conditioning-repair-800w.webp 800w, /images/service-air-conditioning-repair-1200w.webp 1200w, /images/service-air-conditioning-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-installation": {
+        "src": "/images/service-hvac-installation.webp",
+        "srcset": "/images/service-hvac-installation-400w.webp 400w, /images/service-hvac-installation-800w.webp 800w, /images/service-hvac-installation-1200w.webp 1200w, /images/service-hvac-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ductless-mini-splits": {
+        "src": "/images/service-ductless-mini-splits.webp",
+        "srcset": "/images/service-ductless-mini-splits-400w.webp 400w, /images/service-ductless-mini-splits-800w.webp 800w, /images/service-ductless-mini-splits-1200w.webp 1200w, /images/service-ductless-mini-splits.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heat-pump-services": {
+        "src": "/images/service-heat-pump-services.webp",
+        "srcset": "/images/service-heat-pump-services-400w.webp 400w, /images/service-heat-pump-services-800w.webp 800w, /images/service-heat-pump-services-1200w.webp 1200w, /images/service-heat-pump-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "indoor-air-quality": {
+        "src": "/images/service-indoor-air-quality.webp",
+        "srcset": "/images/service-indoor-air-quality-400w.webp 400w, /images/service-indoor-air-quality-800w.webp 800w, /images/service-indoor-air-quality-1200w.webp 1200w, /images/service-indoor-air-quality.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
